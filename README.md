@@ -1,1 +1,1 @@
-# Solar-Energy-Forecasting-using-Machine-Learning-and-Time-Series-Models
+#Spatio Temporal Analysis of Solar Energy in India

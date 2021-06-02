@@ -2,8 +2,7 @@
 
 In this project, time series and machine learning forecasting methods are used to build forecasting models for Solar parks in Rajasthan, Gujarat, Tamil Nadu, Telangana, Andhra Pradesh and Karnataka over different time horizons. The SARIMA, MLP and LSTM models were used to perform Daily, Weekly and Monthly forecasting and their results were compared using MAPE and RMSE values. Based on the results from these model a SARIMA-MLP hybrid model is contructed for weekly forecasting and its results are analyzed.
 
-
-
+## For more details look into the presentation and report in the repository.
 
 # Conclusions
 1. GHI index is highly correlated to DHI, DNI, Clearsky GHI, Clearsky DNI, Clearsky DHI and Temperature.
